@@ -11,13 +11,21 @@ I configured a private virtual network for Kali Linux so that I can add other vi
 The main objectives of this project are:
 
 • Install 7-Zip and VirtualBox.
+
 • Download and import Kali Linux.
+
 • Create a private NAT Network.
+
 • Connect Kali Linux to the virtual network.
+
 • Configure and check the IP address.
+
 • Test network and Internet connectivity.
+
 • Verify DNS resolution and Nmap Installation.
+
 • Create a clean virtual machine snapshot.
+
 • Document the setup for future projects.
 
 ## 3. Tools and Requirements
