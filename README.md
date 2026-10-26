@@ -9,6 +9,7 @@ I configured a private virtual network for Kali Linux so that I can add other vi
 
 ## 2. Project Objectives
 The main objectives of this project are:
+
 • Install 7-Zip and VirtualBox.
 • Download and import Kali Linux.
 • Create a private NAT Network.
