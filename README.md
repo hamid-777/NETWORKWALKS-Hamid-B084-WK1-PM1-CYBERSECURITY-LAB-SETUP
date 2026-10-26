@@ -173,9 +173,15 @@ The main things I learned were:
 7. Documentation: How to record configurations, commands, problems, and solutions in a structured way.
 
 ## 13. Project Information
+
 • Program: Cybersecurity Internship at NETWORKWALKS
+
 • Week: 01
+
 • Project: Cybersecurity and Penetration Testing Lab Setup
+
 • Repository: GitHub
+
 • Author: Hamid Sheraz
+
 • LinkedIn: www.linkedin.com/in/hamid-sheraz-242000257
